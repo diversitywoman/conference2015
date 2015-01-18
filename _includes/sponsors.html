@@ -1,0 +1,96 @@
+    <section id="sponsors">
+      <article>
+        <div class="columns large-12">
+          <h2>The Sponsors</h2>
+          <p>Our proud sponsors and supporters who made this event possible</p>
+
+            {% if site.categories.title %}
+            <div id="title" class="sponsors">
+              <h3>Title Sponsor</h3>
+              {% for post in site.categories.title %}
+                {% if post.logo %}
+                  <a href="{{ post.www }}" target="_blank" class="sponsorlogo"><img src="{{ site.assets.sponsor }}{{ post.logo }}" alt="{{ post.title }}" /></a>
+                {% endif %}
+              {% endfor %}
+            </div>
+          {% endif %}
+
+          {% if site.categories.diamond %}
+            <div id="diamond" class="sponsors">
+              <h3>Diamond</h3>
+              {% for post in site.categories.diamond %}
+                {% if post.logo %}
+                  <a href="{{ post.www }}" target="_blank" class="sponsorlogo"><img src="{{ site.assets.sponsor }}{{ post.logo }}" alt="{{ post.title }}" /></a>
+                {% endif %}
+              {% endfor %}
+            </div>
+          {% endif %}
+
+          {% if site.categories.platinum %}
+            <div id="platinum" class="sponsors">
+              <h3>platinum</h3>
+              {% for post in site.categories.platinum %}
+                {% if post.logo %}
+                  <a href="{{ post.www }}" target="_blank" class="sponsorlogo"><img src="{{ site.assets.sponsor }}{{ post.logo }}" alt="{{ post.title }}" /></a>
+                {% endif %}
+              {% endfor %}
+            </div>
+          {% endif %}
+
+          {% if site.categories.gold %}
+            <div id="gold" class="sponsors">
+              <h3>gold</h3>
+              {% for post in site.categories.gold %}
+                {% if post.logo %}
+                  <a href="{{ post.www }}" target="_blank" class="sponsorlogo"><img src="{{ site.assets.sponsor }}{{ post.logo }}" alt="{{ post.title }}" /></a>
+                {% endif %}
+              {% endfor %}
+            </div>
+          {% endif %}
+
+          {% if site.categories.silver %}
+            <div id="silver" class="sponsors">
+              <h3>silver</h3>
+              {% for post in site.categories.silver %}
+                {% if post.logo %}
+                  <a href="{{ post.www }}" target="_blank" class="sponsorlogo"><img src="{{ site.assets.sponsor }}{{ post.logo }}" alt="{{ post.title }}" /></a>
+                {% endif %}
+              {% endfor %}
+            </div>
+          {% endif %}
+
+          {% if site.categories.bronze %}
+            <div id="bronze" class="sponsors">
+              <h3>bronze</h3>
+              {% for post in site.categories.bronze %}
+                {% if post.logo %}
+                  <a href="{{ post.www }}" target="_blank" class="sponsorlogo"><img src="{{ site.assets.sponsor }}{{ post.logo }}" alt="{{ post.title }}" /></a>
+                {% endif %}
+              {% endfor %}
+            </div>
+          {% endif %}
+
+          {% if site.categories.partner %}
+            <div id="partner" class="sponsors">
+              <h3>partners</h3>
+              {% for post in site.categories.partner %}
+                {% if post.logo %}
+                  <a href="{{ post.www }}" target="_blank" class="sponsorlogo"><img src="{{ site.assets.sponsor }}{{ post.logo }}" alt="{{ post.title }}" /></a>
+                {% endif %}
+              {% endfor %}
+            </div>
+          {% endif %}
+
+          {% if site.categories.supporter %}
+            <div id="supporter" class="sponsors">
+              <h3>supporters</h3>
+              {% for post in site.categories.supporter %}
+                {% if post.logo %}
+                  <a href="{{ post.www }}" target="_blank" class="sponsorlogo"><img src="{{ site.assets.sponsor }}{{ post.logo }}" alt="{{ post.title }}" /></a>
+                {% endif %}
+              {% endfor %}
+            </div>
+          {% endif %}
+        </div>
+      </article>
+    </section>

@@ -1,0 +1,36 @@
+    <section id="speakers">
+    {% assign sorted_speakers = site.categories.speakers|sort:"title" %}
+    {% assign sorted_star_awards = site.categories.star_award|sort:"title" %}
+    {% assign sorted_committee = site.categories.committee|sort:"title" %}
+    {% assign sorted_coach = site.categories.coach|sort:"title" %}
+    {% assign sorted_student_coach = site.categories.student_coach|sort:"title" %}
+    {% assign sorted_mosaic_honor = site.categories.mosaic_honor|sort:"title" %}
+  
+      <article>
+        <div class="columns large-12">
+          <h1 class="color1">The Future is Now for Women:<br /><span class="small">Transformational Leadership, STEM*, and Inclusion as a Cultural Competence</span><span class="smallest">*(Science, Technology, Engineering, Math)</span></h1>
+          <br /><br /><br />
+        </div>
+          <br /><br /><br />
+          <h2>The Speakers</h2>
+          <p>Authors, Talent and Diversity Thought Leaders</p>
+          {% for post in sorted_speakers %}
+          <div class="speaker">
+            <div class="front">
+              <div class="imagecontainer"><img src="{{ site.assets.speaker }}{{ post.image }}"  alt="{{ post.name }}, {{ post.position }}"  /></div>
+              <h3>{{ post.name }}</h3>
+              <h4>{{ post.position }}</h4>
+            </div>
+            <div class="back">
+              <h3>{{ post.name }}</h3>
+              <h4>{{ post.position }}</h4>
+              <p>{{ post.teaser }}</p>
+              <div class="linkgroup">
+                <a href="{{ post.url }}" target="_self" title="Read More"><i class="icon-plus"></i></a>
+             </div>
+            </div>
+          </div>
+         {% endfor %}
+        </div>
+      </article>
+    </section>

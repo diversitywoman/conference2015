@@ -1,0 +1,40 @@
+name: Diversity Woman
+pygments: false
+markdown: kramdown
+paginate: 10
+version: 0.9
+seo:
+  author: "Nicholas Kingston, Scott Schaffter - Bivee LLC"
+  description: 'Diversity Woman Conference 2015'
+  keywords:
+
+contact:
+  phone: ''
+  email: ''
+  address: ''
+
+url: 'http://conference2015.diversitywoman.com/'
+permalink: /:title
+
+social:
+
+
+google:
+  analytics : 'UA-43775034-1'
+  domain: 'diversitywoman.com'
+
+facebook:
+  admins : ''
+  api : ''
+
+assets:
+  img: '/assets/images/'
+  css: '/assets/stylesheets/'
+  js: '/assets/javascripts/'
+  speaker: '/assets/images/speakers/'
+  sponsor: '/assets/images/sponsors/'
+  honoree: '/assets/images/honorees/'
+
+eventbrite:
+  event-id: '7020860583'
+  app-key: '4HSDJIEFIFGXFYAM2Z'

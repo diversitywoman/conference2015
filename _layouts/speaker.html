@@ -1,0 +1,16 @@
+{% include header.html %}
+{% include nav.html %}
+    <section id="profile">
+      <article>
+        <div class="columns large-12">
+          <div class="imagecontainer"><img src="{{ site.assets.speaker }}{{ page.image }}" title="{{ page.name }}, {{ page.position }}" class="profileimg" /></div>
+          <h2>{{ page.name }}</h2>
+          {% if page.honor %}<h3 class="mosaic">{{ page.honor }}</h3>{% endif %}
+          <h3>{{ page.position }}</h3>
+          <br /><br />
+          {{ content }}
+        </div>
+      </article>
+    </section>
+{% include sponsors.html %}
+{% include footer.html %}

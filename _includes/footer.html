@@ -1,0 +1,32 @@
+    <!--<section id="regbutton">
+      <article>
+        <div class="columns large-12">
+          <h2>Join Us</h2>
+          <p>There are still available spots for participants!</p>
+          <div class="counter"><span class="number" id="quantity_available">359</span><span class="text"> of your colleagues have registered</span></div>
+          <a href="#eventbrite-modal" class="registerbutton call-modal">Register Now</a>
+        </div>
+      </article>
+    </section>-->
+    <div id="push"></div>
+  </div>
+  <footer id="bottom" class="ie-hide">
+    <article>
+      <div class="columns large-12">
+        <span><a href="http://www.diversitywoman.com" target="_blank">&copy; Diversity Woman</a></span>
+        <span>|</span>
+        <span><a href="http://www.bivee.co" target="_blank">Made with <b class="heart">♥</b> in DC by Bivee</a></span>
+        </div>
+    </article>
+  </footer>
+
+    <div class="ie-hide">
+    {% include eventbrite_modal.html %}
+      {% for post in site.categories.eventbrite %}
+        {% include eventbrite_modal_sub.html %}
+      {% endfor %}
+    </div>
+
+
+</body>
+</html> 
