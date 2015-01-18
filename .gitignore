@@ -1,0 +1,5 @@
+# Ignore all compiled assets
+_site/*
+
+# Vagrant Specific Ignore
+.vagrant
