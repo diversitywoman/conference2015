@@ -80,7 +80,7 @@ $('.trig-coaching').click(function(event) {
  */
 
 var map;
-var address = new google.maps.LatLng(28.4066232,-81.58820049999997);
+var address = new google.maps.LatLng(28.370733,-81.558653);
 
 function initialize() {
 
