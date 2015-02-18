@@ -10,10 +10,6 @@
   margin-left: auto;
   margin-right: auto;
 }
-#map_canvas img {
-	      max-width: none;
-	    }
-
 /* Reset
 ================================================== */
 html,
@@ -320,6 +316,9 @@ header#site_header img {
   text-align: center;
   background: #f2f2f2;
   /* Specific Moasic Style */
+}
+#speakers .hide {
+  display: none;
 }
 #speakers .color1 {
   display: block;

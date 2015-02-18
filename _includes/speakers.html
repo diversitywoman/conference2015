@@ -7,25 +7,36 @@
     {% assign sorted_mosaic_honor = site.categories.mosaic_honor|sort:"title" %}
   
       <article>
-          <br /><br /><br />
-          <h2>Previous Speakers</h2>
-          {% for post in sorted_speakers %}
-          <div class="speaker">
-            <div class="front">
-              <div class="imagecontainer"><img src="{{ site.assets.speaker }}{{ post.image }}"  alt="{{ post.name }}, {{ post.position }}"  /></div>
-              <h3>{{ post.name }}</h3>
-              <h4>{{ post.position }}</h4>
+        <div class="columns large-12">
+            <br /><br /><br />
+            <h2>Speakers</h2>
+            <p> 2015 speaker information coming soon </p>
+            <button id="view-speakers" class="registerbutton"> View 2014 speakers </button> 
+        </div>
+
+      </article>
+
+      <article class="hide">
+        <div class="columns large-12">
+            <br /><br /><br />
+            <h2>2014 Speakers</h2>
+            {% for post in sorted_speakers %}
+            <div class="speaker">
+              <div class="front">
+                <div class="imagecontainer"><img src="{{ site.assets.speaker }}{{ post.image }}"  alt="{{ post.name }}, {{ post.position }}"  /></div>
+                <h3>{{ post.name }}</h3>
+                <h4>{{ post.position }}</h4>
+              </div>
+              <div class="back">
+                <h3>{{ post.name }}</h3>
+                <h4>{{ post.position }}</h4>
+                <p>{{ post.teaser }}</p>
+                <div class="linkgroup">
+                  <a href="{{ post.url }}" target="_self" title="Read More"><i class="icon-plus"></i></a>
+               </div>
+              </div>
             </div>
-            <div class="back">
-              <h3>{{ post.name }}</h3>
-              <h4>{{ post.position }}</h4>
-              <p>{{ post.teaser }}</p>
-              <div class="linkgroup">
-                <a href="{{ post.url }}" target="_self" title="Read More"><i class="icon-plus"></i></a>
-             </div>
-            </div>
-          </div>
-         {% endfor %}
+           {% endfor %}
         </div>
       </article>
     </section>
