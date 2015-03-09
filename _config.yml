@@ -4,7 +4,7 @@ markdown: kramdown
 paginate: 10
 version: 0.9
 seo:
-  author: "Nicholas Kingston, Scott Schaffter - Bivee LLC"
+  author: "Nicholas Kingston, Scott Schaffter, Nabil Ahlhauser - Bivee LLC"
   description: 'Diversity Woman Conference 2015'
   keywords:
 
