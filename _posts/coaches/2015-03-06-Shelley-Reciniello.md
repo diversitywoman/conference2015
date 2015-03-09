@@ -5,7 +5,7 @@ categories: coach
 title: Reciniello
 name: Dr. Shelley Reciniello
 position: Founder, SRA Consultations
-image: Reciniello_Dr.Shelley.jpg
+image: Reciniello_Dr._Shelley.jpg
 published: true
 teaser: "Dr. Shelley Reciniello has provided psychological consultation to organizations since 1982 through her two companies SRA – Shelley Reciniello, Ph. D and Associates and later SRA Consultations"
 in: null
