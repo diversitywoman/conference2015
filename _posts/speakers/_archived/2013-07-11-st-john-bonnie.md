@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: "2013-07-11 08:30"
-categories: speakers
+categories: 2014speakers
 title: "St. John"
 name: "Bonnie St. John"
 position: "Author and Paralympic Medalist"

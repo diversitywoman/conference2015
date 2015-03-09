@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: "2013-07-12 08:30"
-categories: committee
+categories: archived_committee
 title: McKay
 name: Shelby McKay
 position: "Master Student, Higher Education Administration at The George Washington University"

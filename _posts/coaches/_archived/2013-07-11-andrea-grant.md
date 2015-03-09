@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: "2013-07-11 08:30"
-categories: coach
+categories: archived_coach
 title: Wright
 name: Andrea Grant Wright
 position: "Vice President, Lee Hecht Harrison"

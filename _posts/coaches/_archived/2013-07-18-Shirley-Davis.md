@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: 2013-07-18
-categories: coach
+categories: archived_coach
 title: Davis
 name:  Dr. Shirley Davis
 position: SPHR aka The Success Doctor

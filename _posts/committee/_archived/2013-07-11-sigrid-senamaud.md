@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: "2013-07-11 08:30"
-categories: committee
+categories: archived_committee
 title: Senamaud
 name: Sigrid H. Senamaud
 position: "Conference Director - Diversity Woman, President / GlobalCom Group LLC"

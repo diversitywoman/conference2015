@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: 2013-07-18
-categories: speakers
+categories: 2014speakers
 title: Dagit
 name:  Deborah Dagit
 position: President, Deb Dagit Diversity

@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: "2013-07-28 08:30"
-categories: speakers
+categories: 2014speakers
 title: Hudnell
 name: Rosalind Hudnell
 position: Vice President of Human Resources & Director of Global Employee Communications & External Relations, Intel Corporation

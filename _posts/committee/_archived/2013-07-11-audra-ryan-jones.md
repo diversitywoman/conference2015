@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: "2013-07-11 08:30"
-categories: committee
+categories: archived_committee
 title: Ryan-Jones
 name: "Audra Ryan-Jones"
 position: "VP of Operations, Xerox, Large Enterprise Organization Financial Services Sector SBU"

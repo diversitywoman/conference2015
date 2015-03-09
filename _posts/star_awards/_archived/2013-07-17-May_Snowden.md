@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: 2013-07-18
-categories: star_award
+categories: archived_star_award
 title: Snowden
 name:  "May E. Snowden"
 position: Founder, Snowden & Associates

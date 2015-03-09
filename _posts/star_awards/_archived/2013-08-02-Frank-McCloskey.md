@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: "2013-08-02 08:30"
-categories: star_award
+categories: archived_star_award
 title: McCloskey
 name: Frank McCloskey
 position: Diversity Women Stars Award Committee Member

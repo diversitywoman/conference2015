@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: "2013-08-15 08:30"
-categories: speakers
+categories: 2014speakers
 title: Slate
 name: Shari Slate
 position: Chief Inclusion and Collaboration Strategist, Cisco

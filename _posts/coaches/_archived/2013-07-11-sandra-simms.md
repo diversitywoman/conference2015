@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: "2013-07-11 08:30"
-categories: coach
+categories: archived_coach
 title: Sims-Williams
 name: Sandra Sims-Williams
 position: "Chief Diversity Officer, Publicis Groupe"

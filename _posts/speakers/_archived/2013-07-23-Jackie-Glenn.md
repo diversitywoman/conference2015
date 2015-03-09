@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: "2013-07-23 08:30"
-categories: speakers
+categories: 2014speakers
 title: Glenn
 name: Jackie Glenn
 position: VP, Global Chief Diversity Officer, EMC

@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: "2013-07-12 08:30"
-categories: coach
+categories: archived_coach
 title: Salvatico
 name: Yvette Salvatico
 position: Principal, Kedge

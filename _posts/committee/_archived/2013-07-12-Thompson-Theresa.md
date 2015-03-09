@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: "2013-07-14 08:30"
-categories: committee
+categories: archived_committee
 title: Thompson
 name: Theresa Thompson
 position: "Director of Diversity and Inclusion, Lowe’s Companies"

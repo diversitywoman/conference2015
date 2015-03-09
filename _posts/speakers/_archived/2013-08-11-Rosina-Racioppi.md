@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: "2013-08-11 08:30"
-categories: speakers
+categories: 2014speakers
 title: Racioppi
 name: Dr. Rosina L. Racioppi 
 position: President and Chief Executive Officer, WOMEN Unlimited, Inc.

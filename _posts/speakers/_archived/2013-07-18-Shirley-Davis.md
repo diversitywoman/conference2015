@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: 2013-07-18
-categories: speakers
+categories: 2014speakers
 title: Davis
 name:  Dr. Shirley Davis
 position: "President & CEO, SDS Global Enterprises, former VP of Global Diversity & Inclusion, SHRM"

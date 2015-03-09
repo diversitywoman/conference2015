@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: "2013-07-12 08:30"
-categories: committee
+categories: archived_committee
 title: Bohannon
 name: Audra Bohannon
 position: "Senior Partner, Korn/Ferry International"

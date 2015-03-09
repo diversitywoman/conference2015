@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: "2013-07-11 08:30"
-categories: speakers
+categories: 2014speakers
 title: Dhillon
 name: Shinder Dhillon
 position: "Global Diversity & Inclusion lead for Sales Marketing & Services Group, Microsoft"

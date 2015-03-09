@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: "2013-08-24 08:31"
-categories: committee
+categories: archived_committee
 title: Wasik
 name: Dr. Suzan Wasik
 position: Coaching Initiative Chairperson

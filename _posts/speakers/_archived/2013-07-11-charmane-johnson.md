@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: "2013-07-11 08:30"
-categories: speakers
+categories: 2014speakers
 title: Johnson
 name: Charmane Johnson
 position: "Director, DoD Policy for Affirmative Employment Programs"

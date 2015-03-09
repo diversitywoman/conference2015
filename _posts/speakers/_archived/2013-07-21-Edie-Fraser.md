@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: "2013-07-21 08:30"
-categories: speakers
+categories: 2014speakers
 title: Fraser
 name: Edie Fraser
 position: CEO, STEMConnector

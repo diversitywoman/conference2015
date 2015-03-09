@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: "2013-08-24 08:31"
-categories: coach
+categories: archived_coach
 title: Wasik
 name: Dr. Suzan Wasik
 position: Director of Leadership Development at SalesPro Connect

@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: "2013-07-11 08:30"
-categories: coach
+categories: archived_coach
 title: Rainford
 name: Valerie Rainford
 position: "Chief of staff to JPMorgan Chase’s (JPMC) Head of Global Compliance"

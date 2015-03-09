@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: "2013-08-25 08:30"
-categories: star_award  
+categories: archived_star_award  
 title: Gordon
 name: Tiane Mitchell Gordon
 position: Principal and founder of Square One Consulting

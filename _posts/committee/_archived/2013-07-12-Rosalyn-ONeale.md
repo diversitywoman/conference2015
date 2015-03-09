@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: "2013-07-12 08:30"
-categories: committee
+categories: archived_committee
 title: "O’Neale"
 name: "Rosalyn Taylor O’Neale"
 position: "Principle Consultant, Cook Ross"

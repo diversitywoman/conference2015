@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: "2013-07-11 08:30"
-categories: committee
+categories: archived_committee
 title: Parker
 name: "Delphine Parker"
 position: "Associate Buyer, Duke Energy"

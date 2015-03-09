@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: "2013-07-11 08:30"
-categories: speakers
+categories: 2014speakers
 title: Smith
 name: Dr. Robin Smith
 position: "National television personality, best selling author, ordained minister, keynote speaker, and licensed psychologist"

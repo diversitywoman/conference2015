@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: "2013-07-11 08:30"
-categories: speakers
+categories: 2014speakers
 title: Perez
 name: Nereida Perez
 position: Vice President and Chief Diversity Officer at Ingersoll Rand

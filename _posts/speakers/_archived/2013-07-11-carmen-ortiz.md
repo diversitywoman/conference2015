@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: "2013-07-11 08:30"
-categories: speakers
+categories: 2014speakers
 title: Ortiz-McGhee
 name: Carmen Ortiz-McGhee
 position: "Executive Vice President of Sales, Aon Cornerstone"

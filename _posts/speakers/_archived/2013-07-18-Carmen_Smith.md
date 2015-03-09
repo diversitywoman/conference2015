@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: 2013-07-18
-categories: speakers
+categories: 2014speakers
 title: Smith
 name:  Carmen Smith
 position: Vice President of Creative Development, Walt Disney Imagineering

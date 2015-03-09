@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: "2013-07-11 08:30"
-categories: speakers
+categories: 2014speakers
 title: Wynn
 name: Jacklyn Mitchell Wynn
 position: "Vice President, Strategy and Market Development
