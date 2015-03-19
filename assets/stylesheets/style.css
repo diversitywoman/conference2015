@@ -1262,3 +1262,20 @@ you can use the generic selector below, but it's slower:
   display: block;
   font-weight: 300;
 }
+.copyright {
+  position: relative;
+  display: block;
+  z-index: 0 !important;
+  width: 100%;
+}
+.copyright:after{
+  content: "© Disney";
+  position: absolute;
+  display: block;
+  color: white;
+  bottom: 42px;
+  right: 20px;
+  z-index: 1000;
+  background: rgba(0,0,0, 0.5);
+  padding: 4px 10px;
+}
