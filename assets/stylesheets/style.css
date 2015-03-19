@@ -294,10 +294,6 @@ header#site_header {
   background: #f7931d;
   color: #ffffff;
   background: url(../images/symphony.png) repeat center center;
-  background-size: cover;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
 }
 header#site_header h1,
 header#site_header h3 {
