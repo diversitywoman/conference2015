@@ -293,7 +293,7 @@ header#site_header {
   z-index: 0 !important;
   background: #f7931d;
   color: #ffffff;
-  background: url(../images/hero.jpg) no-repeat center center;
+  background: url(../images/symphony.png) repeat center center;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
