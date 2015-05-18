@@ -8,37 +8,7 @@
     {% assign sorted_mosaic_honor = site.categories.mosaic_honor|sort:"title" %}
   
       <article>
-
-        <div class="columns large-12">
-          {% if site.categories.star_award %}
-            <div id="star_awards">
-            <br /><br /><br />
-            
-            <h2>Star Awards</h2>
-              <a class="button" href="http://diversitywoman.com/wp-content/uploads/2015/04/2015_CallforNominee_01.pdf" target="_blank"> 2015 Star Awards Nominations </a>
-            <br />
-            <h3> Star Awards Committee Members </h3>
-              {% for post in sorted_star_awards %}
-                <div class="speaker honor">
-                  <div class="front">
-                    <div class="imagecontainer"><img src="{{ site.assets.speaker }}{{ post.image }}" alt="{{ post.name }}, {{ post.position }}" /></div>
-                    <h3>{{ post.name }}</h3>
-                    <h4>{{ post.position }}</h4>
-                  </div>
-                  <div class="back">
-                    <h3>{{ post.name }}</h3>
-                    <h4>{{ post.position }}</h4>
-                    <p>{{ post.teaser }}</p>
-                    <div class="linkgroup">
-                      <a href="{{ post.url }}" target="_self" title="Read More"><i class="icon-plus"></i></a>
-                    </div>
-                  </div>
-                </div>
-              {% endfor %}
-            </div>
-          {% endif %}
-        </div>
-
+        
          <div class="columns large-12">
             <br /><br /><br />
             <h2>2015 Speakers</h2>
@@ -81,6 +51,36 @@
                 </div>
               </div>
             {% endfor %}
+          {% endif %}
+        </div>
+
+        <div class="columns large-12">
+          {% if site.categories.star_award %}
+            <div id="star_awards">
+            <br /><br /><br />
+            
+            <h2>Star Awards</h2>
+              <a class="button" href="http://diversitywoman.com/wp-content/uploads/2015/04/2015_CallforNominee_01.pdf" target="_blank"> 2015 Star Awards Nominations </a>
+            <br />
+            <h3> Star Awards Committee Members </h3>
+              {% for post in sorted_star_awards %}
+                <div class="speaker honor">
+                  <div class="front">
+                    <div class="imagecontainer"><img src="{{ site.assets.speaker }}{{ post.image }}" alt="{{ post.name }}, {{ post.position }}" /></div>
+                    <h3>{{ post.name }}</h3>
+                    <h4>{{ post.position }}</h4>
+                  </div>
+                  <div class="back">
+                    <h3>{{ post.name }}</h3>
+                    <h4>{{ post.position }}</h4>
+                    <p>{{ post.teaser }}</p>
+                    <div class="linkgroup">
+                      <a href="{{ post.url }}" target="_self" title="Read More"><i class="icon-plus"></i></a>
+                    </div>
+                  </div>
+                </div>
+              {% endfor %}
+            </div>
           {% endif %}
         </div>
 
