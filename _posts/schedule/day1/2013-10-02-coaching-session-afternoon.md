@@ -1,11 +1,11 @@
 ---
 date: 2013-10-02 15:00
 hour: 2:30 - 4:00 pm
-title: LEADERSHIP COACHING SESSIONS 
+title: Leadership Coaching Sessions 
 child:
-name: Morning Sessions Repeat
+name: Repeat
 company: 
 categories: day1
-expand: y 
+expand: 
 class: trig-coaching
 ---

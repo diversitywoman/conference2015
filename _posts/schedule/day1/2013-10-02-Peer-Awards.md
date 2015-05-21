@@ -9,5 +9,13 @@ location:
 categories: day1
 expand: y
 ---
-
-The “Stars Who Mean Business” awards celebrate individuals who advance diversity and inclusion (D&I) within their company and within the D&I field at large. Awardees demonstrate the passion, commitment and results that positively impact this growing movement. These awards honor diversity executives who share Diversity Woman’s vision and commitment to leadership empowerment for women.
+“Stars” awards celebrate individuals who advance diversity and inclusion
+(D&I) within their organizations and within the D&I field at large. Awardees
+demonstrate the passion, commitment and results that positively impact this
+growing movement. “Stars” awards also honor diversity executives who
+share Diversity Woman’s vision and commitment to leadership
+empowerment for women.
+Remarks:
+Kimberly Strong / Vice President Diversity & Inclusion / Target, 
+Anise D. Wiley-Little / Diversity Woman Star Award Committee Chair &
+Author
