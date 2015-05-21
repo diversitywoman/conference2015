@@ -1,6 +1,6 @@
 ---
 date: 2013-10-03 13:00
-hour: 1:00  - 2:30 pm
+hour: 1:00 - 2:30 pm
 title: Mosaic Awards' Luncheon
 name: 
 location: 

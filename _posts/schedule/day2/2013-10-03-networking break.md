@@ -1,7 +1,7 @@
 ---
-date: 2013-10-03 11:00
-hour: 11:00 AM - 1:00 PM
-title: NETWORKING BREAK & MEET THE AUTHORS 
+date: 2013-10-03 10:30
+hour: 10:30 - 11:00 AM
+title: Networking Break & Meet The Authors 
 name:
 company:
 categories: day2

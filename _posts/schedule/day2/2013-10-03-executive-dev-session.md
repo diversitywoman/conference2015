@@ -1,7 +1,7 @@
 ---
 date: 2013-10-03 11:00
-hour: 11:00 AM - 1:00 PM
-title: LEADERSHIP & EXECUTIVE DEVELOPMENT FORUM
+hour: 11:00 - 1:00 PM
+title: Leadership & Executive Development Forum
 name: 
 company:
 categories: day2
