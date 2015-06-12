@@ -1,6 +1,30 @@
     <section id="schedule">
+
+    {% assign sorted_entertainment = site.categories.entertainment|sort:"title" %}
+
       <article>
         <div class="columns large-12">
+          {% if site.categories.entertainment %}
+          <h2>DIVERSITY LEADERSHIP RECEPTION ENTERTAINMENT</h2>
+          {% for post in sorted_entertainment %}
+            <div class="speaker">
+              <div class="front">
+                <div class="imagecontainer"><img src="{{ site.assets.speaker }}{{ post.image }}"  alt="{{ post.name }}, {{ post.position }}"  /></div>
+                <h3>{{ post.name }}</h3>
+                <h4>{{ post.position }}</h4>
+              </div>
+              <div class="back">
+                <div class="linkgroup">
+                  <nav class="pills">
+                    <a href="{{ post.url }}" target="_self" title="Read More" class="entertainment_person">Read More</a>
+                  </nav>
+               </div>
+              </div>
+            </div>
+          {% endfor %}
+          {% endif %}
+          
+          <br /><br /><br />
           <h2>The Schedule</h2>
           <!-- <img src="/assets/images/2014-conference-program.png" style="max-width: 400px; border: 1px solid #cfcfcf;" /> -->
           <nav class="pills">

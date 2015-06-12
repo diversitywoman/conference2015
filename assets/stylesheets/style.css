@@ -1275,3 +1275,21 @@ you can use the generic selector below, but it's slower:
   background: rgba(0,0,0, 0.5);
   padding: 4px 10px;
 }
+
+/* Style Hackery */
+#schedule .pills a.entertainment_person{
+  background: #213f99;
+  color: #ffffff;
+  cursor: default;
+  margin: 50px;
+}
+
+#schedule .speaker .pills {
+  margin-top: 2rem;
+}
+
+#schedule .speaker img {
+  max-width: 25rem;
+  min-width: 15rem;
+  max-height: 18rem;
+}
