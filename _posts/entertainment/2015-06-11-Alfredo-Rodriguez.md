@@ -4,7 +4,7 @@ date: "2015-06-11 08:30"
 categories: entertainment
 title: Rodriguez
 name: Alfredo Rodriguez
-position: One of the most prolific and gifted jazz piantists of the 21st century - Quincy Jones 
+position: One of the most prolific and gifted jazz pianist of the 21st century - Quincy Jones 
 image: Rodriguez_Alfredo.jpg
 published: true
 teaser: Discovered at the 2006 Montreux Jazz Festival by Quincy Jones, Cuban-born Alfredo Rodriguez has rapidly risen to stardom under the tutelage of the famed producer.

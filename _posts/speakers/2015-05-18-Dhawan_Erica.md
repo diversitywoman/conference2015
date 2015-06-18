@@ -4,7 +4,7 @@ date: "2015-05-18 08:30"
 categories: speakers
 title: Dhawan
 name: Erica Dhawan
-position: Founder and CEO of Cotential
+position: Founder and CEO of COTENTIAL
 image: Dhawan_Erica.png
 published: true
 teaser: Erica Dhawan is the co-author of the new book, "Get Big Things Done, The Power of Connectional Intelligence." 

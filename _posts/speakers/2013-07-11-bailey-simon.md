@@ -4,7 +4,7 @@ date: "2013-07-11 08:30"
 categories: speakers
 title: Bailey
 name: Simon T. Bailey
-position: "Founder, Brilliance Institute"
+position: "Founder, BRILLIANCE INSTITUTE"
 image: Bailey_Simon.jpg
 published: true
 teaser: "Simon T. Bailey is a Leadership Catalyst who aspires to inspire 10% of the world’s population to find their passion and release their brilliance."

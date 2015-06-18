@@ -5,8 +5,8 @@ categories: speakers
 name: Sylvia Hewlett
 title: Hewlett
 image: Hewlett_Sylvia.jpg
-position: PhD, Founder and President, Worklife Balance Institute
-published: true
+position: PhD, Founder and President, WORKLIFE BALANCE INSTITUTE
+PUBLISHED: TRUE
 teaser: Sylvia Ann Hewlett is an economist and the founding president and CEO of the Center for Talent Innovation, a Manhattan-based think tank where she chairs the “Task Force for Talent Innovation.”
 in:
 tw:

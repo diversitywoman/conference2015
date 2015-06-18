@@ -4,7 +4,7 @@ date: "2015-04-22 08:30"
 categories: speakers
 title: Lutoff-Perlo
 name: Lisa Lutoff-Perlo
-position: President and CEO of Celebrity Cruises
+position: President and CEO of CELEBRITY CRUISES
 image: Lutoff-Perlo_Lisa.jpg
 published: true
 teaser: Lisa Lutoff-Perlo is President & CEO of Celebrity Cruises, the cruise line whose iconic ‘X’ is the mark of modern luxury. 

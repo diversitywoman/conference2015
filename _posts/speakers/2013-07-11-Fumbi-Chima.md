@@ -4,7 +4,7 @@ date: "2015-03-09 06:00"
 categories: speakers
 title: Chima
 name: Fumbi Chima 
-position: "Chief Information Officer for Walmart Asia"
+position: "Chief Information Officer for WALMART ASIA"
 image: Fumbi_Chima.jpg
 published: true
 teaser: "Fumbi Chima is an accomplished business executive with exceptional senior management skills in strategic planning, acquisition and business development."

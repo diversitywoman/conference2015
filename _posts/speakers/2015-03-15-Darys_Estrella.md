@@ -4,7 +4,7 @@ date: "2015-03-15 06:00"
 categories: speakers
 title: Estrella
 name: Darys Estrella
-position: Dominican Republic Stock Exchange CEO
+position: DOMINICAN REPUBLIC STOCK EXCHANGE CEO
 image: Estrella_Darys.jpg
 published: true
 teaser: Darys Estrella joined The Vicini Group in May 2012 as the Vice President for Corporate Sustainability.

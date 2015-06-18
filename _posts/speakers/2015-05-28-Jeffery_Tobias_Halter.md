@@ -4,7 +4,7 @@ date: "2015-03-09 06:00"
 categories: speakers
 title: Halter
 name: Jeffery Tobias Halter
-position: President of YWomen
+position: President of YWOMEN
 image: Halter_Jeffery_Tobias.JPG
 published: true
 teaser: Jeffery Tobias Halter is the country's leading male expert on advancing women through male engagement.
