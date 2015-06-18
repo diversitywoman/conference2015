@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: "2013-07-27 08:30"
-categories: speakers
+categories: 2014speakers
 name: Sylvia Hewlett
 title: Hewlett
 image: Hewlett_Sylvia.jpg
