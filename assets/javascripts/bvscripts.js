@@ -21,15 +21,6 @@
 });
 */
 
-//Mobile menu toggle
-$('#showmenu').click(function() {
-  $('ul#menu').slideToggle('fast');
-});
-
-
-
-
-
 
 /*
  * Slidetoggle to for expanded Schedule information
@@ -41,6 +32,12 @@ $(document).on("click", ".toggle", function(event){
 
 
 $(document).ready(function(event){
+    
+      //Mobile menu toggle
+    $('#showmenu').click(function() {
+      $('ul#menu').slideToggle('fast');
+    });
+
     $('#view-speakers').click(function() {
       $('#speakers .hide').slideToggle('fast');
     });
