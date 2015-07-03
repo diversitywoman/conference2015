@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: "2013-07-12 08:30"
-categories: 2014speakers
+categories: speakers
 title: Lewis
 name: Wendy Lewis
 position: "Senior Vice President of Diversity & Strategic Alliances, Major League Baseball"

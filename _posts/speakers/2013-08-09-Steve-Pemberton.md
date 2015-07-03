@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: "2013-08-09 08:30"
-categories: 2014speakers
+categories: speakers
 title: Pemberton
 name: Steve Pemberton
 position: Author and Divisional Vice President and Chief Diversity Officer, Walgreens
