@@ -5,7 +5,7 @@ categories: speakers
 title: Thornhill
 name: Michelle Thornhill
 position: SVP & Diversity and Inclusion Integration/Strategy manager at WELLS FARGO
-image: Wright_Andrea_Grant.jpg
+image: Thornhill_Michelle.jpg
 published: true
 teaser: Michelle Thornhill is the SVP & Diversity and Inclusion Integration/Strategy manager at Wells Fargo.  
 in:
