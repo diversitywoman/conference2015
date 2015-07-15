@@ -1,0 +1,28 @@
+---
+layout: speaker
+date: "2015-07-15 08:30"
+categories: speakers
+title: Goodman
+name: Neal R. Goodman
+position: President, GLOBAL DYNAMICS INC.
+image: Goodman_Neal.jpg
+published: true
+teaser: Dr. Neal Goodman, co-founder and president of Global Dynamics Inc, is an internationally recognized authority on diversity and inclusion, cultural competence, global mindset development, globalization, global leadership and cultural intelligence in organizations.
+in:
+tw:
+ww: 
+---
+Dr. Neal Goodman, co-founder and president of Global Dynamics Inc, is an internationally recognized authority on diversity and inclusion, cultural competence, global mindset development, globalization, global leadership and cultural intelligence in organizations. Through the auspices of Global Dynamics Inc, Dr. Goodman provides training, strategic planning and consulting to top-tier Global 1000 corporations, international organizations and domestic organizations including hospitals that wish to succeed in the multicultural/global arena. With a focus on organizational transformation, culturally competent diversity and inclusion, OD and HR development, strategic planning, and consulting, Dr. Goodman’s programs have helped hundreds of thousands of managers and executives to be more effective in multicultural and international settings.
+
+Dr. Goodman has been a leader in the diversity and inclusion area since 1963 when he led his first diversity awareness program. Over the years he has had the opportunity to work with leaders in the field including Dr. Martin Luther King.  He has delivered diversity workshops to over 250,000 employees and managers of leading organizations and taught diversity and inclusion to over 78,000 university students. His programs are known for their inclusiveness and sensitivity. In 2011, the Society for Human Resource Management honored Dr. Goodman with the designation of Thought Leader in the area of Cultural Competence for Diversity and Inclusion.  The Best Practices Institute and the Institute for Corporate Productivity (i4cp) include Dr. Goodman as their expert on diversity and human potential. He is a regular contributor to Diversity Executive Magazine having just completed a three part series focusing on: Global Diversity, The Value of Cultural Competence for D&I Leaders and Best Practices in Global Diversity Implementations. He writes the blog on Cultural Competence for Diversity Executive Magazine and the ASTD Human Capitol interest group and he is the author of Best Practices in Unconscious Bias Training in Training Magazine.   
+
+GDI has assisted clients from a wide spectrum of the global economy. A small sampling of clients includes: AT&T, J&J, Citi, Florida Hospital, G.E., Acxiom, BD, Bristol-Myers Squibb, Alcatel-Lucent, The American Hospital Association, Samsung, Bechtel Corp, The N.B.A., Hilton Worldwide, Fujitsu, Federal Reserve Bank, Monsanto, Philips, Sun Micro, Genentech, Bank of Am/Merrill Lynch, Hyundai, Volvo, ConocoPhillips, HP, KLM/Air France/Delta/Alitalia, PwC and The World Bank. GDI’s programs on diversity, leadership, team building, virtual workforce effectiveness and joint ventures have been recognized by corporations around the globe. 
+
+Dr. Goodman is a frequent speaker at professional meetings and associations and has lectured at scores of colleges and universities including Georgetown, N.Y.U., Princeton, American Univ. and U.N.C. Dr. Goodman has authored numerous books and articles on cultural competence and the globalization of organizations. His publications include:  Cross-Cultural Training for the Global Executive and Intercultural Education at the University Level in Improving Intercultural Interactions:  Models for Cross-Cultural Training Programs by Richard W. Brislin and Tomoko Yoshida, Sage Publications, 1994. Global Diversity, 2010
+
+Dr. Goodman is the International Forum Field Editor for ASTD’s Performance and Practice, he has served on the Executive Committee of the Society for Intercultural Education, Training and Research (Sietar), and he has a regular column in Training Magazine on Best Practices in Training and Development.  His insights are sought out and published in numerous leading publications including the Financial Times, The Guardian, The Wall Street Journal and The Christian Science Monitor. Dr. Goodman is the initiator and moderator of the Global Diversity LinkedIn Group composed of global D&I leaders.  He regularly consults with the CDO’s of major corporations including IBM, Hilton, Merck, Amex and others to identify best practices and trends in D & I.  The American Hospital Association’s Institute for Diversity has endorsed Dr. Goodman and GDI in support of promoting inclusive workforce and workplace excellence and culturally competent healthcare for its members. 
+
+Dr. Goodman is on the faculty of several corporate universities. Additionally, he holds the rank of Professor Emeritus of Sociology and Intercultural Studies at Saint Peter's College and served as a Faculty Associate in the International MBA Program at the Stern Business School at New York University. Dr. Goodman has three times been honored with invitations to be a Senior Fellow at the East-West Center in Hawaii.  
+
+Dr. Goodman received his Ph.D. from NYU. He is listed in Who’s Who in the World, Who’s Who in America, and International Who’s Who of Contemporary Achievers. He is the recipient of the 1995 Senior Interculturalist Achievement Award from the Society for Intercultural Education, Training, and Research for his lifetime contribution to the field of intercultural understanding. He enjoys travel, scuba diving, snorkeling, and tennis.
+

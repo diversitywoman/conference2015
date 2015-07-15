@@ -5,7 +5,7 @@ categories: speakers
 title: Harris 
 name: Patricia Harris 
 position: Global Chief Diversity Officer & VP, Global Community Engagement for the MCDONALD’S CORPORATION
-image: Harris_Pat.png
+image: Harris_Pat.jpg
 published: true
 teaser: Pat is responsible for the development and implementation of diversity and Inclusion strategies throughout McDonald’s Corporation, including the over 33,500 restaurants in 120 countries.
 in: null
