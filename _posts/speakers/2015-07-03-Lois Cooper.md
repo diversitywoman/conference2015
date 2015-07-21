@@ -2,13 +2,12 @@
 layout: speaker
 date: "2015-07-13 08:30"
 categories: speakers
-title: Lois Cooper
+title: Cooper
 name: Lois Cooper
 position: Vice President, Corporate Development and Inclusion at Adecco Group North America
-image: Lois_Cooper.jpg
+image: Cooper_Lois.png
 published: true
 teaser: Lois Cooper is responsible for developing strategic partnerships and initiatives. 
- 
 in:
 tw:
 ww: 
