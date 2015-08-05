@@ -4,20 +4,16 @@ date: "2015-07-13 08:30"
 categories: speakers
 title: Cooper
 name: Lois Cooper
-position: Vice President, Corporate Development and Inclusion at Adecco Group North America
-image: Cooper_Lois.png
+position: Career Coach Consultant at LEE HECHT HARRISON
+image: Cooper_Lois.jpg
 published: true
-teaser: Lois Cooper is responsible for developing strategic partnerships and initiatives. 
+teaser: Lois Cooper is a Career Coach Consultant at Lee Hecht Harrison where she provides career coaching and career transition services.
 in:
 tw:
 ww: 
 ---
-As Vice President, Corporate Development and Inclusion for Adecco Group North America, Lois Cooper is responsible for developing strategic partnerships and initiatives that support the organization’s business strategies and positively impact the bottom line. 
+Lois Cooper is a Career Coach Consultant at Lee Hecht Harrison where she provides career coaching and career transition services.  She has 25 years of human resources experience in organizations across a variety of industries including 16 years at Adecco Group North America, the world’s largest temporary staffing firm and the parent company of Lee Hecht Harrison. In her career, Lois developed expertise in a number of areas, including employee relations, change management, conflict resolution, performance management, organizational design and development, supplier and workforce diversity and corporate social responsibility.  
 
-Ms. Cooper has more than 20 years of professional experience in organizations across a variety of industries. Her career has included positions in the advertising, financial services and entertainment industries. In these positions she developed expertise in a number of areas, including change management, organizational design and development, and corporate social responsibility and inclusion.  
+In March 2015, Lois was recognized for her Remarkable Dedication and Commitment to Farmingdale State College’s STEM Diversity Program.  In 2014, Lois was named as a Top Executive by Uptown Professional Magazine, a Top Influential Female in Corporate America by Savoy Magazine and a Top Diverse Leader in STEM by STEM Connector.  Lois is a featured speaker for The Conference Board, Disability Matters US and EU, the National Urban League, the Society of Human Resources Management (SHRM) and other thought leadership summits.  
 
-Ms. Cooper has been named as a Top Executive by Uptown Professional Magazine for the last 4 years.  She was selected as a 2009 Black Achiever in Industry by the YMCA of Greater New York.  She is also a 2006 honoree of the Network Journal’s 25 Influential Black Women in Business Awards. She has been featured as Diversity Journal’s “Front-Runners” in Diversity Leadership Series 2006 and honored as one of Diversity Journal’s Women Worth Watching in 2007. Ms. Cooper is a featured speaker for the World Diversity Leadership Summit, and has spoken at various Conferences in the United States and globally.  She has also been quoted in Diversity Spectrum, Diversity Best Practices’ Chief Diversity Officer (CDO) Insights and other publications.
-
-Ms. Cooper is currently participating in the Coach The Coach with ICF Certification through Lee Hecht Harrison.  Her ICF ACC Certification is expected in 2015.  She is also certified in Motif Notation, The Method for Recording Movement Concepts.  Ms. Cooper received her BA from American University in Washington, D.C and her MBA from Baruch College in New York City.
-
-Adecco Group respects, values and practices effective diversity management to capitalize on the strengths of a diverse workforce and continue to be a human resource industry leader.  Partnerships with diverse suppliers position us as a leader in the industry. Working with a diverse group of employees with various backgrounds and perspectives creates a competitive advantage, and ultimately, global success.
+Lois is currently participating in the ICF Certification Program through Lee Hecht Harrison with her ICF ACC Certification expected in 2015.  She is also certified in Motif Notation, The Method for Recording Movement Concepts.  Lois is also the current Board Chair for the Urban League of Long Island, Co-Chair of the Diversity & Inclusion Council for SHRM Long Island and is an immediate past member of the Board of the American Heart Association of Long Island.  Lois received her MBA from Baruch College in New York City and her BA from American University in Washington, D.C.
