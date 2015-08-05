@@ -3,7 +3,7 @@ layout: speaker
 date: "2015-07-15 08:30"
 categories: speakers
 title: Goodman
-name: Neal R. Goodman
+name: Dr. Neal R. Goodman
 position: President, GLOBAL DYNAMICS INC.
 image: Goodman_Neal.jpg
 published: true
