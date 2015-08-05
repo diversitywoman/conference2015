@@ -4,7 +4,7 @@ date: "2013-08-09 08:30"
 categories: speakers
 title: Pemberton
 name: Steve Pemberton
-position: Author and Divisional Vice President and Chief Diversity Officer, Walgreens
+position: Author and Divisional Vice President and Chief Diversity Officer, WALGREENS
 image: Pemberton_Steve.jpg
 published: true
 teaser: Steve Pemberton is Divisional Vice-President and Chief Diversity Officer for Walgreens, the first such person to hold that responsibility in the company’s 110 year history. 
