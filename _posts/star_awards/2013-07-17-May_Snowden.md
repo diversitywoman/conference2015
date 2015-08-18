@@ -4,7 +4,7 @@ date: 2013-07-18
 categories: star_award
 title: Snowden
 name:  "May E. Snowden"
-position: Founder, Snowden & Associates
+position: Founder, SNOWDEN & ASSOCIATES
 image: May_Snowden.png
 published: true
 teaser: Snowden is an independent diversity and inclusion strategist, consultant, educator, facilitator, speaker, and executive coach. She inspires corporate leaders to articulate a global diversity and inclusion vision.

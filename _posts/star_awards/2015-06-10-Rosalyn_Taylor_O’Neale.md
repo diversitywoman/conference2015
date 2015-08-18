@@ -4,7 +4,7 @@ date: 2015-06-10
 categories: star_award
 title: O'Neale
 name:  Rosalyn Taylor O’Neale 
-position: Senior Consultant And Coach At Cook Ross Inc.
+position: Senior Consultant And Coach At COOK ROSS INC.
 image: Rosalyn.png
 published: true
 teaser: Rosalyn Taylor O’Neale has more than thirty years experience leading the diversity and inclusion efforts of businesses and organizations in over twenty five countries, across four continents.

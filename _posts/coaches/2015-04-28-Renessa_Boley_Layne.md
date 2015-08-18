@@ -4,7 +4,7 @@ date: "2015-04-28 08:30"
 categories: coach
 title: Layne
 name: Renessa Boley Layne 
-position: Founder of Designer Life Unlimited
+position: Founder of DESIGNER LIFE UNLIMITED
 image: Boley_Layne_Renessa.jpg
 published: true
 teaser: Renessa Boley Layne is founder of the company, Designer Life Unlimited, creator of the Success and Happiness Test.

@@ -4,7 +4,7 @@ date: "2015-05-28 08:30"
 categories: coach
 title: Marshall
 name: Dee Marshall
-position: Principal at Raise The Bar, LLC
+position: Principal at RAISE THE BAR, LLC
 image: Marshall_Dee.jpg
 published: true
 teaser: A sought-after international speaker, published Author, certified Coach and TV Lifestyle Personality, Dee Marshall is Managing Director at Raise The Bar, LLC.

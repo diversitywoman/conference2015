@@ -4,7 +4,7 @@ date: "2015-04-12 08:30"
 categories: coach
 title: Bohannon
 name: Audra Bohannon
-position: Senior Partner at Korn/Ferry Leadership and Talent Consulting
+position: Senior Partner at KORN/FERRY LEADERSHIP AND TALENT CONSULTING
 image: Bohannon_Audra.jpg
 published: true
 teaser: Audra Bohannon is a Senior Partner in the Workforce Performance, Inclusion and Diversity practice for Korn/Ferry based in the Boston-Waltham office.

@@ -4,7 +4,7 @@ date: "2015-05-05 08:30"
 categories: coach
 title: Hodgkinson
 name: Susan Hodgkinson
-position: Founder of The Personal Brand Company
+position: Founder of THE PERSONAL BRAND COMPANY
 image: Hodgkinson_Susan.png
 published: true
 teaser: Susan Hodgkinson is a trailblazer in personal branding, and founded The Personal Brand Company in 1994.
