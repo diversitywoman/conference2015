@@ -1,10 +1,17 @@
 ---
 date: 2013-10-03 08:00
-hour: 8:00 - 8:30 AM
-title: Opening Remarks
+hour: 8:00 - 8:45 AM
+title: Morning Remarks And Ten Year Sponsor Recognition
 name: 
 company:
 location: 
 categories: day2
-expand: 
+expand: y
+speakers:
+- speaker:  
+  - title: "Speaker"
+    name: "Sheila Robinson"
+- speaker:  
+  - title: "Speaker"
+    name: "Thomas Murray"
 ---

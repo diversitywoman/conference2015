@@ -3,7 +3,7 @@ layout: speaker
 date: "2015-06-18 08:30"
 categories: speakers
 title: Smith
-name: Dr. Christie Smith
+name: "Dr. Christie Smith"
 position: Regional Managing Principal, DELOITTE UNIVERSITY LEADERSHIP CENTER FOR INCLUSION
 image: Smith_Christie.jpg
 published: true

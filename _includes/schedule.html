@@ -26,6 +26,9 @@
           
           <br /><br /><br />
           <h2>The Schedule</h2>
+          <nav class="pills">
+            <a href="assets/pdfs/Agenda_AUGUST_8_12_2015.pdf" target="_blank" class="entertainment_person"><i class="icon-file-pdf"></i> As a PDF</a>
+          </nav>
           <!-- <img src="/assets/images/2014-conference-program.png" style="max-width: 400px; border: 1px solid #cfcfcf;" /> -->
           <nav class="pills">
             <a href="#day0" id="trig-day0">Oct 14 - Pre-Conference</a>
@@ -42,6 +45,20 @@
                 <span class="toggle"></span>
                 <span class="expanded" style="display: none;">
                   {{ post.content | markdownify }}
+                  {% if post.speakers %}
+                    <h3>Event Coordinators</h3>
+                    <ul>
+                    {% for event_speakers in post.speakers %}
+                      {% for event_speaker in event_speakers.speaker %}                    
+                        {% for speaker in site.categories.speakers %}
+                          {% if speaker.name == event_speaker.name %}
+                            <li><strong>{{event_speaker.title}} - </strong><a href="{{ speaker.url }}">{{speaker.name}}: {{speaker.position}}</a></li>
+                          {% endif %}
+                        {% endfor %} 
+                      {% endfor %} 
+                    {% endfor %} 
+                    </ul>
+                  {% endif %}
                 </span>
                 {% endif %}{% if post.eventbrite %}
                 <span class="eventbrite-sub">
@@ -60,6 +77,20 @@
                 <span class="toggle"></span>
                 <span class="expanded" style="display: none;">
                   {{ post.content | markdownify }}
+                  {% if post.speakers %}
+                    <h3>Event Coordinators</h3>
+                    <ul>
+                    {% for event_speakers in post.speakers %}
+                      {% for event_speaker in event_speakers.speaker %}                    
+                        {% for speaker in site.categories.speakers %}
+                          {% if speaker.name == event_speaker.name %}
+                            <li><strong>{{event_speaker.title}} - </strong><a href="{{ speaker.url }}">{{speaker.name}}: {{speaker.position}}</a></li>
+                          {% endif %}
+                        {% endfor %} 
+                      {% endfor %} 
+                    {% endfor %} 
+                    </ul>
+                  {% endif %}
                 </span>
                 {% endif %}{% if post.eventbrite %}
                 <span class="eventbrite-sub">
@@ -78,6 +109,20 @@
                 <span class="toggle"></span>
                 <span class="expanded" style="display: none;">
                   {{ post.content | markdownify }}
+                  {% if post.speakers %}
+                    <h3>Event Coordinators</h3>
+                    <ul>
+                    {% for event_speakers in post.speakers %}
+                      {% for event_speaker in event_speakers.speaker %}                    
+                        {% for speaker in site.categories.speakers %}
+                          {% if speaker.name == event_speaker.name %}
+                            <li><strong>{{event_speaker.title}} - </strong><a href="{{ speaker.url }}">{{speaker.name}}: {{speaker.position}}</a></li>
+                          {% endif %}
+                        {% endfor %} 
+                      {% endfor %} 
+                    {% endfor %} 
+                    </ul>
+                  {% endif %}
                 </span>
                 {% endif %}{% if post.eventbrite %}
                 <span class="eventbrite-sub">

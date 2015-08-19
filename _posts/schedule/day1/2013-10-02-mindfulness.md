@@ -1,27 +1,29 @@
 ---
-date: 2013-10-02 11:01
+date: 2013-10-02 11:02
 hour: 11:00 - 12:30 pm
-title: Mindfulness, Leadership, and Inclusion
+title: Catalyzing Generational Differences for Better Innovation
 child:
 name: 
 company: 
 categories: day1
 expand: y
+speakers:
+- speaker:  
+  - title: "Moderator"
+    name: "Dr. Rosina L. Racioppi"
+- speaker:  
+  - title: "Panelist"
+    name: "Lissiah Hundley"
+- speaker:  
+  - title: "Panelist"
+    name: "Elizebeth Varghese"
 ---
-The important and often overlooked connection Mindfulness is a concept
-and practice that is being embraced the world. Time Magazine called it a
-“Mindful Revolution,” and the mindfulness session at the World EconomicForum had standing room only. Numerous global articles and blogs have
-connected mindfulness to inner peace, better decision making, potential
-increase in empathy, and more. Many leaders are sharing their views on the
-importance of mindfulness and meditation for the individual and
-organization. The elements of mindfulness practice can include clearer
-thinking, openness, and non-judgement What does this mean for us as
-diversity and inclusion practitioners? Is there a connection to our work? In
-this interactive session we will explore: 
-• What is Mindfulness? Mindful Leadership?
-• What is the connection between mindfulness and diversity and inclusion?
-• How might mindfulness help us with “diversity fatigue?” Resistance?
-Challenges to equity?
-Presenters: Tanya M. Odom, Ed.M. / Global Diversity & Inclusion &
-Education Consultant & Executive Coach 
-Center for Creative Leadership
+According to Deloitte’s study on Generations in the Workplace, within the next 6 to10
+years, Gen X and Gen Y will constitute a workforce nearly the size of the Baby Boom
+generation. These numbers make a powerful business case for why companies must
+understand and leverage generational differences.
+This session will reflect on the skills and perspective needed to lead different
+generations—and the knowledge that can be harnessed from them. Learn how:
+- generational changes in the workforce are influencing the marketplace
+- to foster collaboration among intergenerational teams
+- innovation and growth takes place when a company’s generations come together

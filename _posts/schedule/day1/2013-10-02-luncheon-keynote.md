@@ -7,14 +7,23 @@ company:
 location: 
 categories: day1
 expand: y
+speakers:
+- speaker:  
+  - title: "Invocation"
+    name: "Alka Dhillon"
+- speaker:  
+  - title: "Panelist"
+    name: "Tena Clark"
+- speaker:  
+  - title: "Panelist"
+    name: "Dr. Johnnetta Betsch Cole"
+- speaker:  
+  - title: "Panelist"
+    name: "Patricia Harris"
+
 ---
-Open Mike: A Fireside Chat with Leaders, Legends and Pioneers with
-Moderator: Sheila Robinson / Founder / Diversity Women's Business
-Leadership (DWBL) Conference & Publisher and CEO of Diversity Woman
-Magazine and 
-Panelists:
-Tena Clark / Grammy Award recipient & Founder / DMI Music &
-Entertainment, 
-Dr. Johnnetta Cole / Director / Smithsonian National Museum
-of African Art, 
-Pat Harris / Global Chief Diversity Officer / McDonald’s Corporation
+Open Mike: A Fireside Chat with Leaders, Legends and Pioneers
+
+Moderator: Geraldine Moribar / Executive Producer / CNN
+
+Panelist: Cathie Black Hearst / former Chairman & Publisher / Hearst Publications

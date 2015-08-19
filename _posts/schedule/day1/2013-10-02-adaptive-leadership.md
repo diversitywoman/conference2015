@@ -7,6 +7,16 @@ name: Where Women Leadership and the Marketplace Intersect
 company: 
 categories: day1
 expand: y
+speakers:
+- speaker:  
+  - title: "Panelist"
+    name: "Tara Jaye Frank"
+- speaker:  
+  - title: "Panelist"
+    name: "Maria Medrano"
+- speaker:  
+  - title: "Panelist"
+    name: "Angela L. Talton"
 ---
 The 2009 credit crisis shook the global markets and affirmed that
 companies must be agile to survive. As markets change, there is increasing
@@ -18,5 +28,3 @@ adaptive style. Discover how women leaders can empower a dynamic
 network of actors to achieve common goals despite uncertainty. Hear how
 an adaptive leadership approach can leverage workforces to give you an
 edge in the U.S. and global markets.
-Tara Frank, Chief Diversity Officer, Hallmark, 
-Maria Medrano / Global Inclusion & Collaboration Strategist / CISCO
