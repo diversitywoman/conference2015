@@ -4,7 +4,7 @@ date: "2015-08-17 08:30"
 categories: speakers
 title: Wanga
 name: Caroline A. Wanga 
-position: Director of Diversity and Inclusion at TARGET
+position: Senior Director of Diversity and Inclusion at TARGET
 image: Wanga_Caroline.jpg
 published: true
 teaser: Caroline Wanga is responsible for developing strategies, initiating action and driving organizational change in support of the Target's diversity and inclusion priorities, as part of Target's corporate social responsibility initiatives.
