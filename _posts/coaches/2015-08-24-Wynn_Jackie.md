@@ -6,7 +6,7 @@ title: Wynn
 name: Jackie Wynn
 position: Vice President of RSA, the Security Division of EMC
 image: Wynn_Jackie.jpg
-published: true
+published: false
 teaser: Jackie Wynn is responsible for leading the strategy and market development for the RSA Global Public Sector Team, which includes federal, state and local government agencies as well as nation countries.
 in:
 tw:
