@@ -2,10 +2,10 @@
 layout: speaker
 date: "2015-08-25 08:30"
 categories: mosaic_honor
-title: McKenzie
+title: A
 name: Bishop Vashti Murphy McKenzie
-position: Bishop, AFRICAN METHODIST EPISCOPAL (AME) CHURCH
-honor: 
+position: Bishop, African Methodist Episcopal Church
+honor: Mosaic Woman Legend
 image: McKenzie_Vashti.jpg
 published: true
 teaser: Bishop Vashti Murphy McKenzie serves as the 117th elected and consecrated bishop of the African Methodist Episcopal (AME) Church.

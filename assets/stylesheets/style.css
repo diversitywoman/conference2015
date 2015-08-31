@@ -452,7 +452,7 @@ header#site_header img {
   display: inline-block;
   width: 180px;
   height: 50px;
-  background: #f2f2f2;
+  background: #ffffff;
   font-size: 95%;
   font-weight: 500;
 }
@@ -1279,4 +1279,17 @@ article article:after {
   max-width: 25rem;
   min-width: 15rem;
   max-height: 18rem;
+}
+/* Accreditation */
+#speakers .accreditation {
+  margin-bottom: 1.7rem;
+}
+#speakers .accreditation img{
+  width: 7rem; 
+  height: 7rem; 
+  float: left; 
+  margin-right: 1.5rem;
+}
+#speakers .accreditation div{
+  font-size: 65%;
 }

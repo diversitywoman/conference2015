@@ -2,9 +2,9 @@
 layout: speaker
 date: "2015-08-25 08:30"
 categories: mosaic_honor
-title: Knowles-Lawson
+title: D
 name: Tina Knowles-Lawson
-honor: 
+honor: Mosaic Woman Trailblazer
 position: Fashion Designer, Author & Humanitarian
 image: Knowles_Tina.jpg
 published: true
