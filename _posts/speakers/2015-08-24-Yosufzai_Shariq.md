@@ -4,7 +4,7 @@ date: "2015-08-24 08:30"
 categories: speakers
 title: Yosufzai
 name: S. Shariq Yosufzai
-position: Vice President, UNIVERSITY PARTNERSHIPS & ASSOCIATION RELATIONS (UPAR) CHEVRON CORPORATION
+position: Vice President, Global Diversity, Ombuds and University Partnerships & Association Relations (UPAR) CHEVRON CORPORATION 
 image: Yosufzai_Shariq.jpg
 published: true
 teaser: S. Shariq Yosufzai is Vice President, Global Diversity, Ombuds and University Partnerships and Association Relations, Chevron Corporation, a position he has held since 2013. 
