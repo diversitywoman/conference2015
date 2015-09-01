@@ -9,8 +9,14 @@ categories: day2
 expand: y
 speakers:
 - speaker:  
+  - title: "Emcee"
+    name: "Grace Figueredo"
+- speaker:  
   - title: "Speaker"
     name: "Sheila Robinson"
+- speaker:  
+  - title: "Speaker"
+    name: "Caroline A. Wanga"
 - speaker:  
   - title: "Speaker"
     name: "Thomas Murray"

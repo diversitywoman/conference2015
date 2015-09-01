@@ -9,11 +9,20 @@ categories: day2
 expand: y 
 speakers:
 - speaker:  
+  - title: "Moderator"
+    name: "Audra Bohannon"
+- speaker:  
   - title: "Panelist"
     name: "Fumbi Chima"
 - speaker:  
   - title: "Panelist"
     name: "Tami Erwin"
+- speaker:  
+  - title: "Panelist"
+    name: "Donna Johnson"
+- speaker:  
+  - title: "Panelist"
+    name: "Kristine A. Snow"
 ---
 As an increasing number of women join the C-suite ranks of well-known companies,
 the media has tracked their every move. From Yahoo! to Ebay to Facebook to the State
