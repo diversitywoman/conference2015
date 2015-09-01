@@ -18,6 +18,6 @@ speakers:
     name: "Wendy Lewis"
 - speaker:  
   - title: "Panelist"
-    name: "Steve Pemberton"
+    name: "S. Shariq Yosufzai"
 ---
 This session is intended for senior executive leaders
