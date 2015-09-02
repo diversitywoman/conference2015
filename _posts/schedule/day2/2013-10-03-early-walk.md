@@ -12,8 +12,3 @@ speakers:
   - title: "Blackbelt"
     name: "Leah Goldstein"
 ---
-Leah Goldstein, previous Israeli secret police officer (and world champion cyclist
-and blackbelt), will show you how to overcome obstacles, literally! Bring a towel
-and be ready for a secret agent scavenger hunt. You will traverse a simple
-obstacle course (fun and for all fitness levels), and overcome the barriers that
-try to impede your success!
