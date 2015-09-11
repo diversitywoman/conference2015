@@ -1280,6 +1280,11 @@ article article:after {
   min-width: 15rem;
   max-height: 18rem;
 }
+
+#speakers .speaker {
+  height: 395px !important;
+}
+
 /* Accreditation */
 #speakers .accreditation {
   margin-bottom: 1.7rem;
@@ -1293,3 +1298,4 @@ article article:after {
 #speakers .accreditation div{
   font-size: 65%;
 }
+

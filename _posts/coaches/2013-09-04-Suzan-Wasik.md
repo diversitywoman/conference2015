@@ -4,10 +4,10 @@ date: "2013-08-24 08:31"
 categories: coach
 title: Wasik
 name: Dr. Suzan Wasik
-position: Professor of Counseling at NORTH CAROLINA CENTRAL UNIVERSITY
+position: Professor of Counseling at NORTH CAROLINA CENTRAL UNIVERSITY (NCCU)
 image: Wasik_Dr-Suzan.jpg
 published: true
-teaser: "Dr. Suzan Wasik is the Director of Leadership Development at SalesPro Connect - an executive recruiting firm specializing in building sales teams."
+teaser: "Dr. Wasik is a licensed professional counselor and graduate professor specializing in the areas of counseling, mindfulness, and leadership development."
 in:
 tw:
 ww: 
@@ -18,3 +18,4 @@ Dr. Wasik earned her Ph.D. in Counseling and Counselor Education from the Univer
 
 Learn more: http://www.drsuzanwasik.com
 
+ 

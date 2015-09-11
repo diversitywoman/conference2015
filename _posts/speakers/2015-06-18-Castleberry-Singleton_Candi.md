@@ -4,7 +4,7 @@ date: "2015-06-18 08:30"
 categories: speakers
 title: Singleton
 name: Candi Castleberry Singleton
-position: Chief Inclusion and Diversity Officer at UPMC 
+position: Chief Inclusion and Diversity Officer at UPMC, Founder and Chair of the Dignity & Respect Campaign
 image: Castleberry-Singleton_Candi.jpg
 published: true
 teaser: Candi Castleberry Singleton is the Chief Inclusion and Diversity Officer at UPMC, an $11 billion, 21-hospital global health enterprise. 
