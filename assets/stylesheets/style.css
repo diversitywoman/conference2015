@@ -1290,6 +1290,7 @@ article article:after {
   margin-bottom: 1.7rem;
 }
 #speakers .accreditation img{
+  clear:both;
   width: 7rem; 
   height: 7rem; 
   float: left; 
@@ -1299,3 +1300,6 @@ article article:after {
   font-size: 65%;
 }
 
+#speakers .accreditation .clear{
+  clear:both;
+}
