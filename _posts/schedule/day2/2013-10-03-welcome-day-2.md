@@ -19,5 +19,8 @@ speakers:
     name: "Caroline A. Wanga"
 - speaker:  
   - title: "Speaker"
+    name: "Melissa B. Donaldson"
+- speaker:  
+  - title: "Speaker"
     name: "Thomas Murray"
 ---

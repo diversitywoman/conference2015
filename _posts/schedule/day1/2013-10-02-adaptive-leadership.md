@@ -13,6 +13,9 @@ speakers:
     name: "Tara Jaye Frank"
 - speaker:  
   - title: "Panelist"
+    name: "Tami Erwin"
+- speaker:  
+  - title: "Panelist"
     name: "Maria Medrano"
 - speaker:  
   - title: "Panelist"

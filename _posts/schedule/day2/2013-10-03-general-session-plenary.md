@@ -16,9 +16,6 @@ speakers:
     name: "Fumbi Chima"
 - speaker:  
   - title: "Panelist"
-    name: "Tami Erwin"
-- speaker:  
-  - title: "Panelist"
     name: "Donna Johnson"
 - speaker:  
   - title: "Panelist"
