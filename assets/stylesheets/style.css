@@ -268,6 +268,12 @@ nav#main ul#menu {
 nav#main li {
   display: inline-block;
   padding: 1em;
+  color: #ffffff;
+}
+
+nav#main i {
+  vertical-align: middle;
+  padding-left:5px;
 }
 nav#main li a:hover {
   color: #213f99;
@@ -1289,17 +1295,12 @@ article article:after {
 #speakers .accreditation {
   margin-bottom: 1.7rem;
 }
-#speakers .accreditation img{
-  clear:both;
-  width: 7rem; 
-  height: 7rem; 
-  float: left; 
+#speakers .accreditation img{  
+  height: 7rem;
+  padding-bottom: 15px;
   margin-right: 1.5rem;
 }
-#speakers .accreditation div{
+#speakers .accreditation p{
   font-size: 65%;
-}
-
-#speakers .accreditation .clear{
-  clear:both;
+  margin-right: 10px;
 }
