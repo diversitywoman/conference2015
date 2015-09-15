@@ -16,7 +16,7 @@
   Launch:   {{ site.launch }}
   Updated:  {{ site.time | date_to_string }}
 
-  Author:   {{ site.seo.author }}
+  Author:   Scott Schaffter, Nicholas Kingston, & Nabil Ahlhauser
 
   Notes:    Handcrafted by Bivee LLC
             http://www.bivee.co
@@ -35,8 +35,6 @@
   <meta name="google-site-verification" content="{{ site.google.verification }}"/>
 
   <!-- Social Metadata  -->
-  <meta property="fb:admins" content="{{ site.facebook.admins }}"/>
-  <meta property="fb:app_id" content="{{ site.facebook.api }}"/>
   <meta property="og:title" content="{{ page.title }}"/>
   <meta property="og:description" content="{% if page.description == null %}{{ site.seo.description }}{% else %}{{ page.description }}{% endif %}"/>
   <meta property="og:image" content="{{ site.assets.img }}og-image.jpg"/>
