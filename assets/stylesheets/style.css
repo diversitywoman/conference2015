@@ -1304,3 +1304,7 @@ article article:after {
   font-size: 65%;
   margin-right: 10px;
 }
+#speakers sup { 
+    vertical-align: super;
+    font-size: smaller;
+}

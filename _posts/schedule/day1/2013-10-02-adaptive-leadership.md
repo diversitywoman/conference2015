@@ -10,7 +10,7 @@ expand: y
 speakers:
 - speaker:  
   - title: "Panelist"
-    name: "Tara Jaye Frank"
+    name: "Tara Frank"
 - speaker:  
   - title: "Panelist"
     name: "Tami Erwin"

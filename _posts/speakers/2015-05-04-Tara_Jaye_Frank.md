@@ -3,8 +3,8 @@ layout: speaker
 date: "2015-05-04 08:30"
 categories: speakers
 title: Frank
-name: Tara Jaye Frank
-position: Vice President - Multicultural Strategy, CDO for HALLMARK CARDS, INC.
+name: Tara Frank
+position: Vice President - Multicultural Strategy / Hallmark 
 image: Frank_Tara_Jaye.jpeg
 published: true
 teaser: Tara Jaye Frank is responsible for partnering across product development, marketing, and retail to drive growth with an increasingly diverse consumer base.

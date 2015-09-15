@@ -11,6 +11,9 @@ speakers:
 - speaker:  
   - title: "Presenter"
     name: "Dot Harris"
+- speaker:  
+  - title: "Panelist"
+    name: "Adrienne C. Trimble"
 ---
 Our panel will discuss how STEM is the key to U.S. employment and prosperity,
 because it is where the jobs are. Economically strengthening women-who are half the
