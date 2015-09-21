@@ -1,7 +1,7 @@
 ---
 layout: speaker
 date: "2015-08-06 08:30"
-categories: coach
+categories: 2014coach
 title: Gallagher
 name: Josy Laza Gallagher
 position: International Consultant
