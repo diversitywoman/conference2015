@@ -16,6 +16,6 @@ Mosaic Woman Lifetime Achievement Award Recipient -Susan Taylor / Editor-in-Chie
 
 Mosaic Woman Trailblazer Award Recipient - Tina Knowles Lawson / Fashion Designer, Author & Humanitarian 
 
-Mosaic Woman Pioneer Award Recipient - Chris Nee Pioneer / Screenwriter & Creater / Doc McStuffins 
+Mosaic Woman Pioneer Award Recipient - Chris Nee / Creator/Executive Producer / Disney Junior
 
 Mosaic Woman Legend Award Recipient - Bishop Vashti Murphy McKenzie / AMC Church
