@@ -5,7 +5,7 @@ categories: mosaic_honor
 title: C
 name: Susan Taylor
 honor: Mosaic Woman Lifetime Achievement
-position: Editor-in-Chief Essence Magazine
+position: "Founder & CEO, National CARES Mentoring Movement and Editor-in-Chief Emeritus of Essence Magazine"
 image: Taylor_Susan.jpg
 published: true
 teaser: After 27 years as the chief editor of Essence magazine, Susan L. Taylor left publishing to devote her life to building an organization that is devoted to breaking the cycle of intergenerational poverty among African Americans.
@@ -13,11 +13,7 @@ in: null
 tw: null
 ww: null
 ---
-After 27 years as the chief editor of Essence magazine and the visionary credited with building the
-brand, Susan L. Taylor left publishing to devote her life to building an organization that is devoted to
-breaking the cycle of intergenerational poverty among African Americans. The National CARES
-Mentoring Movement is that organization: a community transformation crusade dedicated to “changing the predictable futures defined for our young who are struggling along the margins and living with the
-indignity of poverty,” she says.
+After 27 years as the chief editor of Essence magazine and the visionary credited with building the brand, Susan L. Taylor left publishing to devote her life to building an organization that is devoted to breaking the cycle of intergenerational poverty among African Americans. The National CARES Mentoring Movement is that organization: a community transformation crusade dedicated to “changing the predictable futures defined for our young who are struggling along the margins and living with the indignity of poverty,” she says.
 
 Founded by Susan Taylor in 2005 as Essence CARES, the National CARES Mentoring Movement is
 the fastest growing mentor-recruitment organization in the nation. In 58 U.S. cities, local CARES
