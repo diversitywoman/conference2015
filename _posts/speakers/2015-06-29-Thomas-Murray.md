@@ -7,28 +7,33 @@ name: Thomas Murray
 position: Senior Vice President & Chief Talent Officer at EMC
 image: Murray_Thomas.JPG
 published: true
-teaser: As Chief Talent Officer, Tom is dedicated to defining EMC as “a people company in the technology business.”
+teaser: As Chief Talent Officer and Senior Vice President of EMC’s Human Resources organization, Tom drives an integrated focus on HR Operations and Talent initiatives.
 in:
 tw:
 ww: 
 ---
-As Chief Talent Officer, Tom is dedicated to defining EMC as “a people company in the technology business.”  Under Tom’s leadership, the Global Talent organization attracts, retains and develops the people who drive EMC’s success. 
+As Chief Talent Officer and Senior Vice President of EMC’s Human Resources organization, Tom drives an
+integrated focus on HR Operations and Talent initiatives, including: Talent Acquisition, Executive
+Development, Coaching, Learning and Development, Organization Performance Consulting, Performance
+Management, and Employee Relations. In addition, Tom supports EMC’s Global Sales & Customer
+Operations (COPS) organization, partnering closely with the senior leadership team as a strategic
+business partner. Tom leads a team of 600 professionals who ensure that 50,000 employees around the
+world are able to contribute fully to EMC’s future. He is committed to defining EMC as “a people company
+in the technology business.”
 
-Bringing together an award-winning architecture of Talent Acquisition, Learning & Development, Executive Coaching, Talent Management and Employer Branding, Tom leads a team of 300 professionals around the world. His work ensures that 47,000 employees around the world are able to contribute fully to EMC’s future.
+Tom guides an extensive portfolio of people investments for EMC, from establishing a vital presence at
+colleges and universities to recruiting senior leaders and guiding the company’s succession planning.
+Since joining EMC in 2007, he has led integration and retention of talent from multiple acquisitions and
+built a team to support extensive hiring in Europe and Asia Pacific. Tom was instrumental in expanding
+EMC’s Silicon Valley presence to 12,500 employees in six unique business units. He has evolved the
+company’s employee Learning & Development suite to offer flexible, targeted education and coaches
+senior leaders extensively to raise organization capability and performance.
 
-Tom guides an extensive portfolio of talent investments, from establishing a vital presence at colleges and universities to recruiting executives for senior leadership roles. He has led the development and implementation of the company’s global talent strategy by:
+As a leader, Tom cultivates an inclusive workforce with targeted outreach to diverse candidates. He
+works to retain EMC talent through strategic rewards, retention initiatives, employee relations, and
+compensation. His efforts to develop a smart workforce analytics model have helped EMC make informed
+decisions and draw some of the best talent in IT.
 
-Building a talent acquisition team to support extensive hiring in Europe and Asia Pacific.
-Growing the campus recruiting program as a source of 1400 new hires each year.
-Creating a new global mobility model to promote international career development. 
-Increasing executive recruiting to draw additional top talent.
-Strengthening an inclusive workforce with additional outreach to diverse candidates.
-Expanding EMC’s Silicon Valley presence to 6,000 employees in six unique business units.
-Introducing global branding campaigns to tell the EMC story to multiple generations.
-Retaining, integrating and identifying emerging talent from new acquisitions.
-Leading company-wide talent reviews and succession planning. 
-Evolving the employee Learning & Development suite to offer flexible, targeted education.
-Consulting with business leaders to raise organizational capability and performance.
-Designing a smart workforce analytics model to drive future decision making. 
-
-Tom graduated from Bates College and lives in the Boston area. He serves on the Board of Directors for Horizons for Homeless Children, one of the few organizations in Massachusetts focused exclusively on the needs of young homeless children and their families.
+Tom graduated from Bates College and lives in the Boston area with his wife and three children. He
+serves on the Board of Directors for Horizons for Homeless Children, one of the few organizations in
+Massachusetts focused exclusively on the needs of young homeless children and their families.
