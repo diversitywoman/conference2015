@@ -18,9 +18,6 @@ speakers:
   - title: "Speaker"
     name: "Caroline A. Wanga"
 - speaker:  
-  - title: "Speaker"
-    name: "Melissa B. Donaldson"
-- speaker:  
   - title: "Men As Allies"
     name: "Thomas Murray"
 ---

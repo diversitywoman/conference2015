@@ -12,6 +12,9 @@ speakers:
   - title: "Invocation"
     name: "Alka Dhillon"
 - speaker:  
+  - title: "Remarks"
+    name: "Melissa B. Donaldson"
+- speaker:  
   - title: "Panelist"
     name: "Tena Clark"
 - speaker:  
@@ -26,4 +29,4 @@ Open Mike: A Fireside Chat with Leaders, Legends and Pioneers
 
 Moderator: Geraldine Moribar / Executive Producer / CNN Worldwide
 
-2015 Mosaic Woman Legacy Award Recipient and Panelist: Cathie Black Hearst / former Chairman & Publisher / Hearst Publications
+2015 Mosaic Woman Legacy Award Recipient and Panelist: Cathie Black / former Chairman & Publisher / Hearst Publications
