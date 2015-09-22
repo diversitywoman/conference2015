@@ -4,7 +4,7 @@ date: "2015-07-01 08:30"
 categories: speakers
 title: Erwin
 name: Tami Erwin
-position: President of Consumer and Mass Business Markets (CMB) Sales & Service at VERIZON
+position: Senior Vice President & Group President, Consumer Mass Business Sales & Services Wireline Consumer & Mass Business at VERIZON
 image: Erwin_Tami.jpg
 published: true
 teaser: Tami Erwin is president of Verizon’s Consumer and Mass Business (CMB) Markets line of business. 

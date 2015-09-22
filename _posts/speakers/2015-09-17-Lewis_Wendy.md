@@ -3,7 +3,7 @@ layout: speaker
 date: "2015-09-16 08:30"
 categories: speakers
 title: Lewis
-name: Wendy  Lewis  
+name: Wendy Lewis  
 position: Senior  Vice  President  of  Diversity,  Inclusion  and  Strategic  Alliances for Major  League  Baseball
 image: Lewis_Wendy.jpg
 published: true

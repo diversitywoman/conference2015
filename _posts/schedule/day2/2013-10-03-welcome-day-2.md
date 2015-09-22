@@ -21,6 +21,6 @@ speakers:
   - title: "Speaker"
     name: "Melissa B. Donaldson"
 - speaker:  
-  - title: "Speaker"
+  - title: "Men As Allies"
     name: "Thomas Murray"
 ---
