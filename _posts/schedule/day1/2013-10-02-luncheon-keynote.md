@@ -25,7 +25,8 @@ speakers:
     name: "Patricia Harris"
 
 ---
-Open Mike: A Fireside Chat with Leaders, Legends and Pioneers
+LEADERS, LEGENDS AND PIONEERS 
+Hear insights from past Mosaic award recipients and how they blazed the trail in advancing women into leadership postions.
 
 Moderator: Geraldine Moribar / Executive Producer / CNN Worldwide
 

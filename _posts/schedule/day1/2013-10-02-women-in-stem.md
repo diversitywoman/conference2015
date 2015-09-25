@@ -9,11 +9,20 @@ categories: day1
 expand: y
 speakers:
 - speaker:  
-  - title: "Presenter"
+  - title: "Moderator"
     name: "Dot Harris"
 - speaker:  
   - title: "Panelist"
+    name: "Nina Davuluri"
+- speaker:  
+  - title: "Panelist"
+    name: "Dr. Njema Frazier"
+- speaker:  
+  - title: "Panelist"
     name: "Adrienne C. Trimble"
+- speaker:  
+  - title: "Panelist"
+    name: "Dr. Ines Triay"
 ---
 Our panel will discuss how STEM is the key to U.S. employment and prosperity,
 because it is where the jobs are. Economically strengthening women-who are half the
