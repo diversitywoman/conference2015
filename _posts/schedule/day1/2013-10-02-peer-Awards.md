@@ -1,7 +1,7 @@
 ---
 date: 2013-10-02 16:00
 hour: 4:00 - 5:00 pm
-title: 'Annual Diversity Leadership “Stars Who Mean Business” Peer Awards Celebration & Reception'
+title: 'Annual Diversity Leadership "Stars Who Mean Business" Peer Awards Celebration & Reception'
 child:
 name: 
 company: 
@@ -11,10 +11,10 @@ expand: y
 speakers:
 - speaker:  
   - title: "Speaker"
-    name: "Candi Castleberry Singleton"
+    name: "Candi Castleberry-Singleton"
 - speaker:  
   - title: "Speaker"
-    name: "Dr. Johnnetta Betsch Cole"
+    name: "Tena Clark"
 - speaker:  
   - title: "Speaker"
     name: "Anise D. Wiley-Little"

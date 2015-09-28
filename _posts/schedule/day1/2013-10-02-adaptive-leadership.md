@@ -9,11 +9,11 @@ categories: day1
 expand: y
 speakers:
 - speaker:  
-  - title: "Panelist"
+  - title: "Moderator"
     name: "Tara Frank"
 - speaker:  
   - title: "Panelist"
-    name: "Tami Erwin"
+    name: "Angela Klein"
 - speaker:  
   - title: "Panelist"
     name: "Maria Medrano"

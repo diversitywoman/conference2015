@@ -17,6 +17,9 @@ speakers:
 - speaker:  
   - title: "Speaker"
     name: "Caroline A. Wanga"
+- speaker:
+  - title: "Men As Allies"
+    name: "Thomas Murray"
 - speaker:  
   - title: "Men As Allies"
     name: "Thomas Murray"

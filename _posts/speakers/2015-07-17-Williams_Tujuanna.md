@@ -4,7 +4,7 @@ date: "2015-07-17 08:30"
 categories: speakers
 title: Williams
 name: Tujuanna Williams
-position: Vice President and Chief Diversity and Inclusion Officer for FANNIE MAE
+position: Vice President & Chief Diversity and Inclusion Officer for FANNIE MAE
 image: Williams_Tujuanna.jpg
 published: true
 teaser: Tujuanna Williams is Fannie Mae’s Vice President and Chief Diversity and Inclusion Officer.

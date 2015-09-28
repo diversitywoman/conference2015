@@ -25,6 +25,17 @@
               {% endfor %}
             </div>
           {% endif %}
+          
+          {% if site.categories.anniversary %}
+            <div id="anniversary" class="sponsors">
+              <h3>10th Anniversary Sponsors</h3>
+              {% for post in site.categories.anniversary %}
+                {% if post.logo %}
+                  <a href="{{ post.www }}" target="_blank" class="sponsorlogo"><img src="{{ site.assets.sponsor }}{{ post.logo }}" alt="{{ post.title }}" /></a>
+                {% endif %}
+              {% endfor %}
+            </div>
+          {% endif %}
 
           {% if site.categories.platinum %}
             <div id="platinum" class="sponsors">
@@ -74,17 +85,6 @@
             <div id="partner" class="sponsors">
               <h3>Partners</h3>
               {% for post in site.categories.partner %}
-                {% if post.logo %}
-                  <a href="{{ post.www }}" target="_blank" class="sponsorlogo"><img src="{{ site.assets.sponsor }}{{ post.logo }}" alt="{{ post.title }}" /></a>
-                {% endif %}
-              {% endfor %}
-            </div>
-          {% endif %}
-
-          {% if site.categories.supporter %}
-            <div id="supporter" class="sponsors">
-              <h3>Supporters</h3>
-              {% for post in site.categories.supporter %}
                 {% if post.logo %}
                   <a href="{{ post.www }}" target="_blank" class="sponsorlogo"><img src="{{ site.assets.sponsor }}{{ post.logo }}" alt="{{ post.title }}" /></a>
                 {% endif %}

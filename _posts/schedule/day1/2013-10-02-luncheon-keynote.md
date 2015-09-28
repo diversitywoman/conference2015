@@ -15,6 +15,9 @@ speakers:
   - title: "Remarks"
     name: "Melissa B. Donaldson"
 - speaker:  
+  - title: "Moderator"
+    name: "Geraldine Moriba"
+- speaker:  
   - title: "Panelist"
     name: "Tena Clark"
 - speaker:  
@@ -23,11 +26,10 @@ speakers:
 - speaker:  
   - title: "Panelist"
     name: "Patricia Harris"
+- speaker:  
+  - title: "2015 Mosaic Woman Legacy Award Recipient"
+    name: "Cathie Black"
 
 ---
 LEADERS, LEGENDS AND PIONEERS 
 Hear insights from past Mosaic award recipients and how they blazed the trail in advancing women into leadership postions.
-
-Moderator: Geraldine Moribar / Executive Producer / CNN Worldwide
-
-2015 Mosaic Woman Legacy Award Recipient and Panelist: Cathie Black / former Chairman & Publisher / Hearst Publications
