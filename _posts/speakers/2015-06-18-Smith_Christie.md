@@ -4,15 +4,15 @@ date: "2015-06-18 08:30"
 categories: speakers
 title: Smith
 name: "Dr. Christie Smith"
-position: Regional Managing Principal, DELOITTE UNIVERSITY LEADERSHIP CENTER FOR INCLUSION
+position: National Managing Principal, DELOITTE UNIVERSITY LEADERSHIP CENTER FOR INCLUSION
 image: Smith_Christie.jpg
 published: true
-teaser: Christie is the Managing Principal for Consulting in the west region of the United States.
+teaser: Christie is the National Managing Principal for Consulting in the west region of the United States.
 in:
 tw:
 ww: 
 ---
-Christie is the Managing Principal for Consulting in the west region of the United States. Her responsibilities include markets, clients, talent and community for more than 2,400 consulting practitioners and more than 250 Principals and Directors. She is also a Lead Consulting Partner and Advisory Partner on several of Deloitte’s largest clients. 
+Christie is the National Managing Principal for Consulting in the west region of the United States. Her responsibilities include markets, clients, talent and community for more than 2,400 consulting practitioners and more than 250 Principals and Directors. She is also a Lead Consulting Partner and Advisory Partner on several of Deloitte’s largest clients. 
 
 With more than 25 years of experience, Christie has a passion for serving clients and bringing innovative and effective solutions to their most important business, market and talent issues. Christie focuses her work with clients on aligning business strategy with the requirements of organizational structure, talent, leadership development and global workforce planning.  
 

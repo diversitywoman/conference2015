@@ -3,7 +3,7 @@ layout: speaker
 date: "2015-09-09 08:30"
 categories: speakers
 title: Harris
-name: Dot Harris
+name: 'La Doris "Dot" Harris'
 position: Director of the Office of Economic Impact and Diversity at the U.S. DEPARTMENT OF ENERGY
 image: Harris_Dot.jpg
 published: true
