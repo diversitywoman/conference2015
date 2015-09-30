@@ -3,7 +3,7 @@ layout: speaker
 date: "2015-07-13 08:30"
 categories: speakers
 title: OReilly
-name: Nancy D. O’Reilly
+name: Nancy D. O'Reilly
 position: Clinical Psychologist
 image: OReilly_Nancy.jpeg
 published: true
