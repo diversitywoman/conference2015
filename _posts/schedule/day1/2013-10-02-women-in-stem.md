@@ -10,7 +10,7 @@ expand: y
 speakers:
 - speaker:  
   - title: "Moderator"
-    name: "Dot Harris"
+    name: 'La Doris "Dot" Harris'
 - speaker:  
   - title: "Panelist"
     name: "Nina Davuluri"
