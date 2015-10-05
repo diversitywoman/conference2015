@@ -5,7 +5,7 @@ categories: mosaic_honor
 title: E
 name: Cathie Black
 honor: Mosaic Woman Legacy 
-position: Former President, Hearst Magazines & Director, Hearst Corporation, Author Basic Black
+position: Former President, Hearst Magazines & Chairman, Hearst Corporation, Author Basic Black
 image: Black_Cathie.jpg
 published: true
 teaser: Cathie Black is a well known media and publishing executive having spent the majority of her career as President, then Chairman, of Hearst Magazines.
@@ -35,5 +35,5 @@ countries.
 
 Today, she lives in the start-up world as an advisor, board
 member and/or angel investor in a variety of young
-companies, to include PubMatic, Yieldbot, Bark &Co
+companies, to include PubMatic, Yieldbot, Bark & Co
 (BarkBox), Pinks & Greens, Hit Fix and others.
