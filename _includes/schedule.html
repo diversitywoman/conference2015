@@ -46,7 +46,6 @@
                 <span class="expanded" style="display: none;">
                   {{ post.content | markdownify }}
                   {% if post.speakers %}
-                    <h3>Event Coordinators</h3>
                     <ul>
                     {% for event_speakers in post.speakers %}
                       {% for event_speaker in event_speakers.speaker %}                    
@@ -78,11 +77,19 @@
                 <span class="expanded" style="display: none;">
                   {{ post.content | markdownify }}
                   {% if post.speakers %}
-                    <h3>Event Coordinators</h3>
                     <ul>
                     {% for event_speakers in post.speakers %}
                       {% for event_speaker in event_speakers.speaker %}                    
                         {% for speaker in site.categories.speakers %}
+                          {% if speaker.name == event_speaker.name %}
+                            <li><strong>{{event_speaker.title}} - </strong><a href="{{ speaker.url }}">{{speaker.name}}: {{speaker.position}}</a></li>
+                          {% endif %}
+                        {% endfor %} 
+                      {% endfor %} 
+                    {% endfor %} 
+                    {% for event_speakers in post.speakers %}
+                      {% for event_speaker in event_speakers.speaker %}                    
+                        {% for speaker in site.categories.mosaic_honor %}
                           {% if speaker.name == event_speaker.name %}
                             <li><strong>{{event_speaker.title}} - </strong><a href="{{ speaker.url }}">{{speaker.name}}: {{speaker.position}}</a></li>
                           {% endif %}
@@ -110,7 +117,6 @@
                 <span class="expanded" style="display: none;">
                   {{ post.content | markdownify }}
                   {% if post.speakers %}
-                    <h3>Event Coordinators</h3>
                     <ul>
                     {% for event_speakers in post.speakers %}
                       {% for event_speaker in event_speakers.speaker %}                    

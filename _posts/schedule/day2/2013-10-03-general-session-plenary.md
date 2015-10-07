@@ -31,6 +31,3 @@ panel of female leaders from across the public and private sectors, and from a r
 industries, for their perspectives on whether a double standard exists in the C-Suite
 and learn about positive and negative notoriety they’ve experienced in their leadership
 roles.
-
-Moderator: Audra Bohannon / Senior Partner, Workforce Performance, Inclusion &
-Diversity / Korn Ferry

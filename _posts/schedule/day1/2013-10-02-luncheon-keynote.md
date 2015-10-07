@@ -27,7 +27,7 @@ speakers:
   - title: "Panelist"
     name: "Patricia Harris"
 - speaker:  
-  - title: "2015 Mosaic Woman Legacy Award Recipient"
+  - title: "Panelist"
     name: "Cathie Black"
 
 ---
