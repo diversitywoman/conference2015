@@ -14,9 +14,6 @@ speakers:
     name: "Candi Castleberry-Singleton"
 - speaker:  
   - title: "Speaker"
-    name: "Tena Clark"
-- speaker:  
-  - title: "Speaker"
     name: "Anise D. Wiley-Little"
 ---
 “Stars” awards celebrate individuals who advance diversity and inclusion (D&I) within

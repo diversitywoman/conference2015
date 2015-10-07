@@ -4,7 +4,7 @@ hour: 6:00 - 6:45 am
 title: Health & Wellness Morning Walk 
 name: 
 company:
-location: 
+location: beach
 categories: day1
 expand: y
 ---

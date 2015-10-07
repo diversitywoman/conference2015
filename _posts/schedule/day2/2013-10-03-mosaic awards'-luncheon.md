@@ -28,6 +28,6 @@ Mosaic Woman Pioneer Award Recipient - Chris Nee / Creator/Executive Producer / 
 
 Presented by: Caroline A. Wanga / Senior Director, Diversity & Inclusion / Target 
 
-Mosaic Woman Legend Award Recipient - Bishop Vashti Murphy McKenzie / AMC Church
+Mosaic Woman Legend Award Recipient - Bishop Vashti Murphy McKenzie / AME Church
 
 Presented by: Melissa B. Donaldson / Director Diversity Networks &Communications / Walgreens

@@ -13,6 +13,9 @@ speakers:
 - speaker:  
   - title: "Speaker"
     name: "Annette Richardson"
+- speaker:  
+  - title: "Anniversary Moment"
+    name: "Maria Medrano"
 ---
 GET BIG THINGS DONE: THE POWER OF CONNECTIONAL INTELLIGENCE
 

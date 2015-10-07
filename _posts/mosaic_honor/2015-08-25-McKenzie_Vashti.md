@@ -4,7 +4,7 @@ date: "2015-08-25 08:30"
 categories: mosaic_honor
 title: A
 name: Bishop Vashti Murphy McKenzie
-position: Bishop, African Methodist Episcopal Church
+position: Bishop, AME Church
 honor: Mosaic Woman Legend
 image: McKenzie_Vashti.jpg
 published: true

@@ -1,10 +1,10 @@
 ---
 date: 2013-10-03 06:30
 hour: 6:00 - 6:45 am
-title: Health & Wellness Morning Walk
+title: Health & Wellness Activity
 name: 
 company:
-location: 
+location: Beach
 categories: day2
 expand: y
 ---

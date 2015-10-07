@@ -29,6 +29,9 @@ speakers:
 - speaker:  
   - title: "Panelist"
     name: "Cathie Black"
+- speaker:  
+  - title: "Presented by:"
+    name: "Betty Martinez Lowery"
 
 ---
 LEADERS, LEGENDS AND PIONEERS 
