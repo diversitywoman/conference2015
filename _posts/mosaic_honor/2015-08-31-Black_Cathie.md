@@ -35,5 +35,5 @@ countries.
 
 Today, she lives in the start-up world as an advisor, board
 member and/or angel investor in a variety of young
-companies, to include PubMatic, Yieldbot, Bark &Co
+companies, to include PubMatic, Yieldbot, Bark & Co
 (BarkBox), Pinks & Greens, Hit Fix and others.

@@ -4,7 +4,7 @@ date: "2013-07-11 08:30"
 categories: speakers
 title: Klein
 name: Angela Klein
-position: "Vice President, Distribution Atrategy & Field Sales"
+position: "VP, Consumer Sales Strategy and Alternate Channels Distribution at Verizon CMB"
 image: Klein_Angela.jpg
 published: true
 teaser: Angie Klein is the Vice President for consumer sales strategy and alternate channel distribution for the Verizon Consumer and Mass Business (CMB) organization.
