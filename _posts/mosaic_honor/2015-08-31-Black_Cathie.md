@@ -5,7 +5,7 @@ categories: mosaic_honor
 title: E
 name: Cathie Black
 honor: Mosaic Woman Legacy 
-position: Former President, Hearst Magazines & Director, Hearst Corporation, Author Basic Black
+position: Former President, Hearst Magazines & Chairman/Hearst Corporation; Author, Basic Black
 image: Black_Cathie.jpg
 published: true
 teaser: Cathie Black is a well known media and publishing executive having spent the majority of her career as President, then Chairman, of Hearst Magazines.
